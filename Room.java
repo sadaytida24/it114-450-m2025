@@ -1,5 +1,5 @@
 // Room.java
-// UCID: ad273, Date: 2025-08-04
+// UCID: ad273, Date: August 4th, 2025
 // Base room class for managing client connections
 
 import java.util.*;

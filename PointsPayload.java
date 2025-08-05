@@ -1,5 +1,5 @@
 // PointsPayload.java
-// UCID: ad273, Date: 2025-08-04
+// UCID: ad273, Date: August 4th, 2025
 // Payload for syncing player points
 
 public class PointsPayload extends Payload {

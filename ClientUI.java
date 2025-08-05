@@ -1,5 +1,5 @@
 // ClientUI.java
-// UCID: ad273, Date: 2025-08-04
+// UCID: ad273, Date: August 4th, 2025
 // Swing UI for the client application
 
 import javax.swing.*;

@@ -1,5 +1,5 @@
 // Player.java
-// UCID: ad273, Date: 2025-08-04
+// UCID: ad273, Date: August 4th, 2025
 // Player class to store player information and points
 
 public class Player {

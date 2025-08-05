@@ -1,5 +1,5 @@
 // PayloadType.java
-// UCID: ad273, Date: 2025-08-04
+// UCID: ad273, Date: August 4th, 2025
 // Enumeration of all payload types for communication
 
 public enum PayloadType {
